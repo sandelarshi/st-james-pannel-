@@ -94,7 +94,7 @@ form.example::after {
 <!--navbar-->
 <div class="form" style="padding-left:400px;padding-top:50px">
  <h2>Forms</h2>
-  <button type="button" class="btn btn-info">New Entry</button>
+  <button type="button"><a href="FAMILY.PHP">FAMILY</a></button>
   <button type="button" class="btn btn-danger">Baptism </button>
   <button type="button" class="btn btn-success">Holy communion</button>
   <button type="button" class="btn btn-default">Conformation</button>  
